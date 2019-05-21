@@ -14,4 +14,7 @@ Baseline 2
 
 Step 1: Mine templates
 
-Step 2: Apply templates
+Step 2: Apply templates using the colde in Baseline 1
+
+### TIP-SELECTOR
+Updating...
