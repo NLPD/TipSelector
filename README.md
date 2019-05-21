@@ -9,6 +9,8 @@ Baseline 1
 
 Use the example of hotel id d84082
 
+May take 3 mins to run
+
 ### HOTEL-MINER
 Baseline 2
 
